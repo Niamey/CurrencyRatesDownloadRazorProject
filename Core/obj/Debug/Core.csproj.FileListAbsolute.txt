@@ -1,0 +1,11 @@
+C:\Users\okornieva.appwell\source\repos\CurrencyTestTask\Core\bin\Debug\Core.dll
+C:\Users\okornieva.appwell\source\repos\CurrencyTestTask\Core\bin\Debug\Core.pdb
+C:\Users\okornieva.appwell\source\repos\CurrencyTestTask\Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\okornieva.appwell\source\repos\CurrencyTestTask\Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\okornieva.appwell\source\repos\CurrencyTestTask\Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\okornieva.appwell\source\repos\CurrencyTestTask\Core\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\okornieva.appwell\source\repos\CurrencyTestTask\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\okornieva.appwell\source\repos\CurrencyTestTask\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\okornieva.appwell\source\repos\CurrencyTestTask\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\okornieva.appwell\source\repos\CurrencyTestTask\Core\obj\Debug\Core.dll
+C:\Users\okornieva.appwell\source\repos\CurrencyTestTask\Core\obj\Debug\Core.pdb
